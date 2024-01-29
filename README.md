@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Output
 
-![image](https://github.com/9979Gyu/bmi_calculator/assets/99544531/122e5474-649f-4c2c-9e21-60ebdff46bbe)
+![image](https://github.com/9979Gyu/bmi_calculator/assets/99544531/3dea6f68-03c6-4270-b713-657caf2b3603)
 
 
 ## Getting Started
