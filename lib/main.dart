@@ -134,6 +134,8 @@ class _HomePageState extends State<HomePage> {
     }
   }
 
+  bool checked = false;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -177,6 +179,20 @@ class _HomePageState extends State<HomePage> {
             SizedBox(height: 8,),
             Row(
               children: [
+                Expanded(
+                  child: CheckboxListTile(
+                    value: checked,
+                    title: Text("this"),
+                    subtitle: Icon(Icons.add),
+                    checkColor: Colors.black,
+                    onChanged: (value) {
+                      setState((){
+                        checked = value!;
+                      });
+                    },
+                  
+                  ),
+                ),
                 Expanded(
                   child: RadioListTile(
                       title: Text("Male"),
