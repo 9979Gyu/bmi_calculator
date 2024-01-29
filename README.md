@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## Output
+
+![image](https://github.com/9979Gyu/bmi_calculator/assets/99544531/122e5474-649f-4c2c-9e21-60ebdff46bbe)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
